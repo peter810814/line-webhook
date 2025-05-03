@@ -1,4 +1,2 @@
-pyautogui
+flask
 requests
-Pillow
-pygetwindow
